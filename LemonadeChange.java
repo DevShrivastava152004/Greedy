@@ -63,4 +63,5 @@ public class LemonadeChange {
         System.out.println(solution.lemonadeChange(bills1)); // Output: true
         System.out.println(solution.lemonadeChange(bills2)); // Output: false
     }
-}
+}// Time Complexity: O(n), where n is the number of customers (length of the bills array).
+// Space Complexity: O(1), since we are using only a constant amount of extra space
