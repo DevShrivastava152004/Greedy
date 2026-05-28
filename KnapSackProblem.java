@@ -43,3 +43,6 @@ public class KnapSackProblem {
         fractionalKnapsack(W,arr)); // Output: 240.0
     }
 }
+// Time Complexity: O(n log n + n). O(n log n) to sort the items and O(n) to iterate through all the items for calculating the answer.
+
+// Space Complexity: O(1), no additional data structure has been used.
