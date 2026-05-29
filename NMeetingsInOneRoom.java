@@ -33,7 +33,7 @@ public class NMeetingsInOneRoom
             }
         }
         int count = result.size();
-        System.out.println("Hey so your  answer is ");
+        System.out.println("Hey so your  answer is  below  ");
         System.out.println("Count = " + count);
         return result;
     }
